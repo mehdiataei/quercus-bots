@@ -9,3 +9,7 @@ Canvas does not have the capability of batch uploading assignment comments. This
 This bot allows instructors/TAs to simultinously submit the grade and comment of each assignment submission automatically from an Excel/csv file. The code can be easily modified for other needs. 
 
 This bot uses the official Canvas API, therefore, it should be compatible with any university LMS that uses Canvas.
+
+## Bot-2: Autograder only accounting for late submissions.
+
+This bot will autograde all the submissions and deduct certain points for late submissions.
